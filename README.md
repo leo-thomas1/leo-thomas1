@@ -87,6 +87,7 @@ Driven software engineer with a strong background in building scalable, customer
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://leo-thomas1.github.io/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/leo-thomas1/output/main/github-snake.svg)
+
 
 💡 *Let's connect and build something amazing!* 🚀
