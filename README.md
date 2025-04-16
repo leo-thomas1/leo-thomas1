@@ -42,11 +42,8 @@
 
 ## 🚀 Projects
 
-- **Order Processing System** – Full-stack order management system (React, Node.js, PostgreSQL)
-- Order Procesing System-https://main.d2epe2xebif5x1.amplifyapp.com/
-- **Tour & Travel | E-Commerce Apps** – Responsive web apps using React + Firebase
-- Ecommerce-https://master.d370ue3o89aerp.amplifyapp.com/
-- Tour & Travel-https://main.dmw0ai4v9abr7.amplifyapp.com/
+- **Order Processing System** – Full-stack order management system (React, Node.js, PostgreSQL) URL - https://main.d2epe2xebif5x1.amplifyapp.com/
+- **Tour & Travel | E-Commerce Apps** – Responsive web apps using React + Firebase .Ecommerce URL -https://master.d370ue3o89aerp.amplifyapp.com/  & Tour & Travel URL - https://main.dmw0ai4v9abr7.amplifyapp.com/
 - **Invoice Automation** – Automated invoice workflow using UiPath & OpenRPA  
 - **Restaurant Management System** – Built with PHP & MySQL for restaurant operations  
 - **EventHub** – Android app for booking events with real-time venue status
