@@ -1,93 +1,79 @@
-<h1 align="center">Hi 👋, I'm Leo Thomas</h1>
-<h3 align="center">Software Engineer | Passionate about Scalable Solutions & Automation</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo-thomas1.leo-thomas1" />
 
-🌍 Kochi, Kerala  
-📫 Reach me at **leothomas0095@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/leothomas00/) | [GitHub](https://github.com/leo-thomas1)  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Leo+Thomas!" />
+</h1>
 
----
-
-### 🚀 About Me  
-Driven software engineer with a strong background in building scalable, customer-centric solutions and automating workflows. Passionate about leveraging emerging technologies to enhance user experiences. Committed to delivering innovative, high-impact systems.
+<h3 align="center">Aspiring Software Developer | Passionate about Scalable Solutions & Automation</h3>
 
 ---
 
-### 💡 Skills & Technologies  
+## 📍 About Me
 
-#### 👨‍💻 Programming Languages  
-- C, C++, Java, Python, C#  
-
-#### 🗄️ Databases  
-- MySQL, Oracle, SQLite, PostgreSQL, NoSQL  
-
-#### 🌐 Web Technologies  
-- PHP, HTML, CSS, JavaScript, React, Laravel, .NET, MERN Stack (React, Node.js, Express)  
-
-#### ⚙️ Tools & Frameworks  
-- UiPath, OpenRPA, VS Code, Visual Studio, Android Studio  
-
-#### 🏆 Soft Skills  
-- Problem-Solving, Leadership, Project Management, Multitasking, Communication  
+🎓 MCA Student at [Rajagiri College of Social Sciences](https://rajagiri.edu/)  
+🚀 Passionate about building impactful, automation-driven applications  
+🌱 Exploring Full-Stack Development, RPA, and Cloud Tools  
+📧 leothomas0095@gmail.com  
 
 ---
 
-### 💼 Experience  
+## ⚙️ Tech Stack
 
-#### 🔹 Tata Consultancy Services (2021-2023) | Assistant System Engineer  
-- Managed incident resolution for Walgreens Boots Alliance (Healthcare & Retail).  
-- Promoted to Subject Matter Expert (SME) for outstanding performance.  
-- Experienced in Jira and BMC tools for efficient issue tracking.  
-
-#### 🔹 Woxro Technology Solutions Pvt Ltd (Jan 2025 – Present) | Software Developer Intern  
-- Collaborating on web application development projects to enhance user experience and functionality.  
-
-#### 🔹 Cochin Shipyard Ltd, Kochi (Apr 2024 – May 2024) | RPA Developer Intern  
-- Developed automation solutions using UiPath and OpenRPA, reducing manual workload by 30%.  
-- Gained expertise in SAP ERP systems and lifecycle management.  
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
-### 📚 Education  
-🎓 **Master of Computer Applications (MCA)** - Rajagiri College of Social Sciences (2023-2025)  
-🎓 **Bachelor of Science in Mathematics** - Mar Thoma College, Chungathara (2018-2021)  
+### 🌐 Web  
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![MERN](https://img.shields.io/badge/MERN-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-### 🔨 Notable Projects  
-
-✅ **Invoice Automation using RPA** *(OpenRPA, UiPath)*  
-🚀 Streamlined invoice workflows, improving efficiency by 30%.  
-
-✅ **Restaurant Management System** *(PHP & MySQL)*  
-📊 Developed a system for efficient restaurant operations.  
-
-✅ **Banking Application** *(Java)*  
-💰 Secure financial transactions and banking features.  
-
-✅ **EventHub - Venue and Resource Booking System** *(Android App)*  
-📅 Built an app for event management with real-time resource booking.  
+### 🛢️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![NoSQL](https://img.shields.io/badge/NoSQL-008000?style=for-the-badge)
 
 ---
 
-### 🛠️ Technologies & Tools  
+### 🛠️ Tools & Frameworks  
+![UiPath](https://img.shields.io/badge/UiPath-fd5901?style=for-the-badge&logo=uipath&logoColor=white)  ![OpenRPA](https://img.shields.io/badge/OpenRPA-blue?style=for-the-badge)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<p align="left">  
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>  
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>  
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>  
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a>  
-</p>  
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🚀 Projects
 
-![GitHub Snake](https://raw.githubusercontent.com/leo-thomas1/snake-game/output/github-snake.svg)
+- **Order Processing System** – Full-stack order management system (React, Node.js, PostgreSQL)
+- Order Procesing System-https://main.d2epe2xebif5x1.amplifyapp.com/
+- **Tour & Travel | E-Commerce Apps** – Responsive web apps using React + Firebase
+- Ecommerce-https://master.d370ue3o89aerp.amplifyapp.com/
+- Tour & Travel-https://main.dmw0ai4v9abr7.amplifyapp.com/
+- **Invoice Automation** – Automated invoice workflow using UiPath & OpenRPA  
+- **Restaurant Management System** – Built with PHP & MySQL for restaurant operations  
+- **EventHub** – Android app for booking events with real-time venue status
+
+---
+
+<h2 align="left">😊 Connect with me: 😊</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/leothomas00/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leothomas00" height="30" width="40" />
+  </a>
+  <a href="https://github.com/leo-thomas1" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="leo-thomas1" height="30" width="40" />
+  </a>
+</div>
 
 
-💡 *Let's connect and build something amazing!* 🚀
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leo-thomas1&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-thomas1&layout=compact&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=leo-thomas1&theme=dracula" height="150"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
